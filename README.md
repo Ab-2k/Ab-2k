@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
 <h3 align="center">UG student, interested in AI/ML</h3>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **ML & DSA**
 
 - 📫 How to reach me **abhinavsinghshyam@gmail.com**
 
